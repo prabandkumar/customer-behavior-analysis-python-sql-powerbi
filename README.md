@@ -15,6 +15,31 @@ The goal of this project is to simulate a end-to-end data analytics workflow, de
 
 Business Problem → Python (EDA & Cleaning) → SQL (Modeling & Analysis) → Power BI (Dashboard) → Insights & Presentation
 
+## How to use this project
+
+1. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+
+    This file contains:
+
+      - Data Import
+
+      - Data exploration
+
+      - Data cleaning
+
+      - Connection to SQL Database
+  
+2. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
+
+      - Create a database in SQL
+
+      - Run Python code to load data into SQL database
+  
+      - Open **customer_behavior_sql_queries.sql**
+  
+      - Answer Business Questions using SQL Queries 
+
+
 
 
 
