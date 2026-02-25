@@ -35,9 +35,21 @@ Business Problem → Python (EDA & Cleaning) → SQL (Modeling & Analysis) → P
 
       - Run Python code to load data into SQL database
   
-      - Open **customer_behavior_sql_queries.sql**
+      - Open **customer_behaviour_sql_queries.sql**
   
-      - Answer Business Questions using SQL Queries 
+      - Answer Business Questions using SQL Queries
+
+3. **Connect the SQL Database to Power BI**
+
+      - Open **customer_behaviour_dashboard.pbix**
+   
+      - Create interactive dashboard in Power BI
+  
+4. **Create Project Report and Presentation**
+
+      - Create project report
+   
+      - Build presentation deck
 
 
 
