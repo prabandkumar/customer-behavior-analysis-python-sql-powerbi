@@ -2,12 +2,6 @@
 
 > Transforming raw customer data into actionable business intelligence using **Python, SQL, and Power BI**
 
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
-![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
-![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![Status](https://img.shields.io/badge/Project-Production%20Ready-success)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ---
 
 ## 📌 Project Overview
